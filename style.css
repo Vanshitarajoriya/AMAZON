@@ -536,12 +536,18 @@ select{
     margin-right: 5px;
     flex-wrap: nowrap;
     display: flex;
-    margin: 0 20px;
+    margin: 0 -17px;
+
+}
+.book-header{
+    margin:  20px;
 }
 .book-content h2 {
     margin-left: 0rem;
     margin-top: 0rem;
 }
+
+
 .book-img {
     height: 195px;
     width: 180px;
@@ -550,6 +556,70 @@ select{
     margin-bottom: 1rem;
     
     overflow: hidden;
+}
+.book1 h4{
+    font-size: 14px;
+    margin:0px 25px;
+    font-weight: 700;
+    font-family: 'Lexend', sans-serif;
+    text-align: center;
+  
+}
+.book2 h4{
+    font-size: 14px;
+    margin:0px 25px;
+    font-weight: 700;
+    font-family: 'Lexend', sans-serif;
+    text-align: center;
+  
+}
+.book3 h4{
+    font-size: 14px;
+    margin:0px 25px;
+    font-weight: 700;
+    font-family: 'Lexend', sans-serif;
+    text-align: center;
+  
+}
+.book4 h4{
+    font-size: 14px;
+    margin:0px 25px;
+    font-weight: 700;
+    font-family: 'Lexend', sans-serif;
+    text-align: center;
+  
+}
+.book5 h4{
+    font-size: 14px;
+    margin:0px 25px;
+    font-weight: 700;
+    font-family: 'Lexend', sans-serif;
+    text-align: center;
+  
+}
+.book6 h4{
+    font-size: 14px;
+    margin:0px 25px;
+    font-weight: 700;
+    font-family: 'Lexend', sans-serif;
+    text-align: center;
+  
+}
+.book7 h4{
+    font-size: 14px;
+    margin:0px 25px;
+    font-weight: 700;
+    font-family: 'Lexend', sans-serif;
+    text-align: center;
+  
+}
+.book8 h4{
+    font-size: 14px;
+    margin:0px 25px;
+    font-weight: 700;
+    font-family: 'Lexend', sans-serif;
+    text-align: center;
+  
 }
 .book1 p
 {
@@ -613,6 +683,20 @@ padding: 2px 20px;
     text-align: center;
 padding: 2px 20px;
 
+}
+.book-content h4{
+    color: #007185;
+    margin-bottom: 12px;
+}
+.stars{
+    margin: 0px 25px;
+    text-align: center;
+}
+.stars .fa-solid{
+    color: #ffa41c;
+}
+.stars .fa-regular{
+    color: #ffa41c;
 }
 
 
